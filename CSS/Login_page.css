@@ -15,7 +15,7 @@
   width: 450px;
   height: 350px;
   box-sizing: border-box;
-  margin: 7% auto auto auto;
+  margin: 2% auto auto auto;
   padding: 20px 15px;
 }
 #id,
@@ -99,4 +99,11 @@
 }
 body {
   background-color: rgb(243, 245, 246);
+}
+.img-align {
+  padding-bottom: 30px;
+  text-align: center;
+}
+img {
+  width: 40%;
 }
