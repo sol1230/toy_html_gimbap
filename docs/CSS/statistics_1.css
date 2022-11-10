@@ -69,5 +69,37 @@ body {
   padding-top: 50px;
 }
 .table_back_color2 {
-  background-color: rgb(223, 245, 239);
+  background-color: rgb(88, 212, 175);
+  color: rgb(255, 255, 255);
+}
+
+.border-color {
+  border-color: gray;
+}
+table {
+  margin-top: 13%;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+.table-width {
+  width: 150px;
+  height: 20px;
+  text-align: center;
+}
+.survey-no {
+  text-align: center;
+  font-size: 13px;
+  padding-bottom: 1px solid rgb(185, 185, 185);
+}
+.table-line {
+  border-top: 1px solid rgb(185, 185, 185);
+  border-bottom: 1px solid rgb(236, 236, 236);
+  background-color: rgb(234, 234, 234);
+}
+.height {
+  height: 27px;
+}
+.no-underline {
+  border-bottom: 1px solid rgb(185, 185, 185);
+  padding: 0;
 }
