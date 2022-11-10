@@ -1,0 +1,125 @@
+/* * {
+  border: 1px dotted gray;
+} */
+.login-box1 h2 {
+  width: 100%;
+  height: 50px;
+  color: rgb(33, 208, 156);
+  padding-bottom: 5px;
+  border-bottom: 2px dotted rgb(88, 212, 175);
+  text-align: center;
+  margin: 0 auto 5% auto;
+}
+.login-box1 {
+  width: 550px;
+  height: 280px;
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  margin: 10% 1% auto 0;
+  padding: 20px 60px;
+  border-right: 1px solid rgb(88, 212, 175);
+}
+#id1 {
+  margin-left: 40px;
+  width: 200px;
+  height: 15px;
+  border: 1px solid rgb(160, 160, 160);
+  margin-bottom: 10px;
+  padding-top: 5px;
+}
+.login-id1 {
+  font-size: 15px;
+  margin-left: 14%;
+}
+.find-phone1 {
+  font-size: 15px;
+  margin-left: 14%;
+  margin-right: 3px;
+}
+.hr1 {
+  padding-top: 20px;
+  border-bottom: 2px dotted rgb(88, 212, 175);
+}
+.btn1 {
+  text-align: center;
+  margin: 5% 40% 7% auto;
+}
+#login1 {
+  font-size: 17px;
+  width: 130px;
+  height: 45px;
+  position: absolute;
+  margin-left: 14px;
+  background-color: rgb(88, 212, 175);
+  border: 1px solid rgb(88, 212, 175);
+  color: white;
+  font-weight: 800;
+}
+body1 {
+  background-color: rgb(243, 245, 246);
+}
+.box-flex {
+  display: flex;
+  justify-content: center;
+}
+/* ----------------------------box2-------------------------- */
+.login-box2 {
+  width: 450px;
+  height: 280px;
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  margin: 10% 0 auto 2%;
+  padding: 20px 15px;
+}
+.login-box2 h2 {
+  width: 100%;
+  height: 50px;
+  color: rgb(33, 208, 156);
+  padding-bottom: 5px;
+  border-bottom: 2px dotted rgb(88, 212, 175);
+  text-align: center;
+  margin: 0 auto 5% auto;
+}
+#id2 {
+  margin-left: 25px;
+  width: 200px;
+  height: 15px;
+  border: 1px solid rgb(160, 160, 160);
+  margin-bottom: 10px;
+  padding-top: 5px;
+}
+#name {
+  margin-left: 40px;
+  width: 200px;
+  height: 15px;
+  border: 1px solid rgb(160, 160, 160);
+  margin-bottom: 10px;
+  padding-top: 5px;
+}
+.login-id2,
+.name {
+  font-size: 15px;
+  margin-left: 15%;
+}
+.hr2 {
+  padding-top: 20px;
+  border-bottom: 2px dotted rgb(88, 212, 175);
+}
+.btn2 {
+  text-align: center;
+  margin: 5% 40% 7% auto;
+}
+#login2 {
+  font-size: 17px;
+  width: 130px;
+  height: 45px;
+  position: absolute;
+  margin-left: 14px;
+  background-color: rgb(88, 212, 175);
+  border: 1px solid rgb(88, 212, 175);
+  color: white;
+  font-weight: 800;
+}
+body2 {
+  background-color: rgb(243, 245, 246);
+}

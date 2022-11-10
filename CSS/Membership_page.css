@@ -1,0 +1,101 @@
+.input-size {
+  width: 10px;
+  height: 200px;
+}
+.join-box h1 {
+  width: 100%;
+  height: 50px;
+  color: rgb(33, 208, 156);
+  padding-bottom: 10px;
+  border-bottom: 2px dotted rgb(88, 212, 175);
+  text-align: center;
+  margin: 0 auto 5% auto;
+}
+.join-box {
+  width: 550px;
+  height: 350px;
+  box-sizing: border-box;
+  margin: 6% auto auto auto;
+  padding: 20px 15px;
+}
+#join-id {
+  margin-left: 95px;
+}
+#join-password {
+  margin-left: 77px;
+}
+#password-ck {
+  margin-left: 35px;
+}
+#join-name {
+  margin-left: 113px;
+}
+#join-birth {
+  margin-left: 77px;
+  width: 243px;
+  font-size: 15px;
+  padding-left: 10px;
+}
+select {
+  height: 33px;
+  width: 60px;
+  margin-left: 34px;
+}
+#join-phone2,
+#join-phone3 {
+  width: 74px;
+}
+.hr {
+  padding-top: 10px;
+  border-bottom: 2px dotted rgb(88, 212, 175);
+}
+.btn {
+  text-align: center;
+  margin: 5% 34% 7% auto;
+}
+.btn > * {
+  width: 130px;
+  height: 45px;
+  font-size: 17px;
+}
+.btn button {
+  background-color: rgb(118, 118, 118);
+  border: 1px solid rgb(118, 118, 118);
+}
+.btn a {
+  text-decoration: none;
+  color: white;
+  font-weight: 800;
+}
+#join-btn {
+  position: absolute;
+  margin-left: 14px;
+  background-color: rgb(88, 212, 175);
+  border: 1px solid rgb(88, 212, 175);
+  color: white;
+  font-weight: 800;
+}
+body {
+  background-color: rgb(243, 245, 246);
+}
+
+.box-padding > * {
+  margin-bottom: 7px;
+}
+.box-padding > input {
+  border: 1px solid rgb(160, 160, 160);
+  width: 250px;
+  height: 25px;
+  padding-top: 5px;
+}
+.box-padding > label {
+  margin-left: 10%;
+  font-size: 18px;
+  font-weight: 500;
+}
+.box-padding > button {
+  height: 33px;
+}
+#join-id {
+  width: 170px;
+}

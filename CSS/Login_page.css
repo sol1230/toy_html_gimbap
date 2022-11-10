@@ -1,0 +1,102 @@
+.input-size {
+  width: 10px;
+  height: 200px;
+}
+.login-box h1 {
+  width: 100%;
+  height: 50px;
+  color: rgb(33, 208, 156);
+  padding-bottom: 10px;
+  border-bottom: 2px dotted rgb(88, 212, 175);
+  text-align: center;
+  margin: 0 auto 5% auto;
+}
+.login-box {
+  width: 450px;
+  height: 350px;
+  box-sizing: border-box;
+  margin: 7% auto auto auto;
+  padding: 20px 15px;
+}
+#id,
+#password {
+  width: 250px;
+  height: 25px;
+  border: 1px solid rgb(160, 160, 160);
+  margin-bottom: 10px;
+  padding-top: 5px;
+}
+#id {
+  margin-left: 22px;
+}
+.login-id {
+  font-size: 18px;
+  margin-left: 35px;
+}
+.login-password {
+  font-size: 18px;
+  margin-left: 35px;
+  margin-right: 3px;
+}
+.id-save-right {
+  text-align: right;
+  margin-right: 47px;
+  padding-bottom: 5px;
+}
+.id-save-right span {
+  position: relative;
+  font-size: 16px;
+  color: gray;
+}
+.find-button > button {
+  background-color: rgb(88, 212, 175);
+  border: 1px solid rgb(88, 212, 175);
+}
+.find-button {
+  text-align: right;
+  margin-right: 47px;
+  text-decoration: none;
+  padding-bottom: 7px;
+}
+.hr {
+  padding-top: 10px;
+  border-bottom: 2px dotted rgb(88, 212, 175);
+}
+
+.find-button > span {
+  font-size: 14px;
+  color: gray;
+}
+.find-button a {
+  text-decoration: none;
+  color: white;
+}
+.btn {
+  text-align: center;
+  margin: 5% 34% 7% auto;
+}
+.btn > * {
+  width: 130px;
+  height: 45px;
+  font-size: 17px;
+}
+.btn button {
+  background-color: rgb(118, 118, 118);
+  border: 1px solid rgb(118, 118, 118);
+}
+.btn a {
+  text-decoration: none;
+  color: white;
+  font-weight: 800;
+}
+#login {
+  position: absolute;
+  margin-left: 14px;
+  background-color: rgb(88, 212, 175);
+  border: 1px solid rgb(88, 212, 175);
+  color: white;
+  font-weight: 800;
+}
+body {
+  background-color: rgb(243, 245, 246);
+}
