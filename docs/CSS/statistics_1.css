@@ -31,18 +31,23 @@
 
 .link {
   margin: auto;
-  padding: 20px 0px 0px 100px;
+  padding: 0;
 }
 
 .link > li {
-  margin: 10px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 14px;
   padding: 5px;
-  width: 80px;
-  height: 50px;
+  width: 100px;
+  height: 60px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   background-color: rgb(121, 213, 186);
+}
+.link > li:nth-of-type(2) {
+  margin-top: 3px;
 }
 
 .a {
