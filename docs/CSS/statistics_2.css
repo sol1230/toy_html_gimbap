@@ -27,18 +27,23 @@
 }
 .link {
   margin: auto;
-  padding: 0px 0px 0px 0px;
+  padding: 0;
 }
 
 .link > li {
-  margin: 10px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 14px;
   padding: 5px;
-  width: 80px;
-  height: 50px;
+  width: 100px;
+  height: 60px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   background-color: rgb(121, 213, 186);
+}
+.link > li:nth-of-type(2) {
+  margin-top: 3px;
 }
 .a {
   text-decoration-line: none;
@@ -73,7 +78,7 @@ body {
   border-color: gray;
 }
 table {
-  margin-top: 13%;
+  margin-top: 10%;
   border-top: 1px solid gray;
   border-bottom: 1px solid gray;
 }
@@ -86,6 +91,7 @@ table {
   text-align: center;
   font-size: 13px;
   padding-bottom: 1px solid rgb(185, 185, 185);
+  border-top: 1px solid rgb(185, 185, 185);
 }
 .table-line {
   border-top: 1px solid rgb(185, 185, 185);
@@ -97,5 +103,4 @@ table {
 }
 .no-underline {
   border-bottom: 1px solid rgb(185, 185, 185);
-  padding: 0;
 }
