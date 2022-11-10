@@ -27,3 +27,7 @@ button {
   color: white;
   font-weight: 800;
 }
+button a {
+  text-decoration: none;
+  color: white;
+}
