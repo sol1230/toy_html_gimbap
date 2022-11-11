@@ -42,11 +42,11 @@
 }
 .find-phone1 {
   font-size: 15px;
-  margin-left: 14%;
+  margin: 0 2rem 0 3.5rem;
   margin-right: 2rem;
 }
 .hr1 {
-  padding-top: 20px;
+  padding-top: 30px;
   border-bottom: 2px dotted rgb(88, 212, 175);
 }
 .btn1 {
