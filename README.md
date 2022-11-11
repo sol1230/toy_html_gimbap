@@ -10,13 +10,6 @@
 - [화면설계](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/resource/02.%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84_V1.0_Template_%EA%B9%80%EB%B0%A5.pdf)
 
 ### [소스코드]
-
-- 🍓 이은솔 : 설문 진행, 통계 구현  
-  - [survey](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/survey.html)  
-  - [survey result](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/survey_result.html) 
-  - [survey duplication](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/survey_dupli.html)  
-  - [stastic_1](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/statistics_1.html)  
-  - [stastic_2](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/statistics_2.html)  
   
 - 🍑 김소희 : 메인페이지, 로그인, 회원가입 구현
   - [main](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/index.html)  
@@ -25,6 +18,13 @@
   - [find_users](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/Find_users.html)  
   - [survey_start](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/Survey_start.html
 )
+
+- 🍓 이은솔 : 설문 진행, 통계 구현  
+  - [survey](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/survey.html)  
+  - [survey result](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/survey_result.html) 
+  - [survey duplication](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/survey_dupli.html)  
+  - [stastic_1](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/statistics_1.html)  
+  - [stastic_2](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/statistics_2.html)  
 
 ### [구현 영상]
 
