@@ -52,13 +52,13 @@
 }
 .id-save-right {
   text-align: right;
-  margin-right: 47px;
+  margin-right: 3.1rem;
   padding-bottom: 5px;
 }
-.id-save-right span {
+.id-save-right label {
   position: relative;
-  font-size: 16px;
-  color: gray;
+  font-size: 14px;
+  color: rgb(132, 132, 132);
 }
 .find-button > button {
   background-color: rgb(88, 212, 175);
@@ -66,7 +66,7 @@
 }
 .find-button {
   text-align: right;
-  margin-right: 47px;
+  margin-right: 3.1rem;
   text-decoration: none;
   padding-bottom: 7px;
 }
