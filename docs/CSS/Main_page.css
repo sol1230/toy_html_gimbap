@@ -29,6 +29,7 @@ li {
 .list-align {
   text-decoration: none;
   padding-left: 70px;
+  color: rgb(69, 215, 171);
 }
 .footer {
   display: flex;
