@@ -33,12 +33,28 @@ body {
   display: flex;
   justify-content: center;
   margin: auto;
-  width: 700px;
-  height: 200px;
+  height: 90px;
+  font-size: 13px;
 }
-
+table {
+  text-align: center;
+  margin-top: 18%;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+tr {
+  height: 50px;
+}
+th {
+  width: 150px;
+}
+.table_underline {
+  border-bottom: 1px solid gray;
+  font-weight: 900;
+}
 .table_back_color2 {
-  background-color: rgb(223, 245, 239);
+  background-color: rgb(88, 212, 175);
+  color: rgb(255, 255, 255);
 }
 
 .table_back_color {
