@@ -19,10 +19,10 @@
 }
 
 .main {
+  font-size: 15px;
   display: flex;
   flex-direction: row;
-  /* justify-content: center; */
-  padding: 0 20px 400px 21px;
+  justify-content: center;
 }
 
 body {
