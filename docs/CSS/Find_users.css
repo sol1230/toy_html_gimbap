@@ -20,12 +20,12 @@
   margin: 0 auto 5% auto;
 }
 .login-box1 {
-  width: 550px;
-  height: 280px;
+  width: 450px;
+  height: 250px;
   box-sizing: border-box;
   /* border: 1px solid black; */
   margin: 10% 1% auto 0;
-  padding: 20px 60px;
+  padding: 30px 25px;
   border-right: 1px solid rgb(88, 212, 175);
 }
 #id1 {
@@ -46,7 +46,7 @@
   margin-right: 2rem;
 }
 .hr1 {
-  padding-top: 30px;
+  padding-top: 35px;
   border-bottom: 2px dotted rgb(88, 212, 175);
 }
 .btn1 {
@@ -68,6 +68,7 @@ body1 {
   background-color: rgb(243, 245, 246);
 }
 .box-flex {
+  margin-top: 5rem;
   display: flex;
   justify-content: center;
 }
@@ -78,7 +79,7 @@ body1 {
   box-sizing: border-box;
   /* border: 1px solid black; */
   margin: 10% 0 auto 2%;
-  padding: 20px 15px;
+  padding: 30px 15px;
 }
 .login-box2 h2 {
   width: 100%;
