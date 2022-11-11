@@ -137,6 +137,8 @@ table {
 .a1:hover {
   background-color: black;
   color: white;
+  height: 60px;
+  padding-top: 16.5px;
 }
 .a2:hover {
   background-color: black;

@@ -123,6 +123,8 @@ table {
 .a2:hover {
   background-color: black;
   color: white;
+  height: 60px;
+  padding-top: 16.5px;
 }
 
 .click {
