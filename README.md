@@ -7,6 +7,8 @@
 
 - [화면정의서](https://github.com/sohiekim65/Hedgehog_Project/blob/master/refers/%ED%99%94%EB%A9%B4%EC%A0%95%EC%9D%98%EC%84%9C/%ED%99%94%EB%A9%B4%EC%A0%95%EC%9D%98%EC%84%9C_%EA%B3%A0%EC%8A%B4%EB%8F%84%EC%B9%98.pdf)
 - [요구사항정의서](https://github.com/sohiekim65/Hedgehog_Project/blob/master/refers/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C_%EA%B3%A0%EC%8A%B4%EB%8F%84%EC%B9%98.pdf)
+- [화면설계]
+(https://github.com/sol1230/toy_html_gimbap/blob/master/docs/resource/02.%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84_V1.0_Template_%EA%B9%80%EB%B0%A5.pdf)
 
 ### [소스코드]
 
