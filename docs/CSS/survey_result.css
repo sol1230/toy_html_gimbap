@@ -101,3 +101,8 @@ th {
   text-decoration-line: none;
   color: white;
 }
+
+.link:hover > li:nth-of-type(1) {
+  background-color: black;
+  color: white;
+}
