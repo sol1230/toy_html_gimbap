@@ -104,7 +104,11 @@ th {
   text-decoration-line: none;
   color: white;
 }
-.link:hover > li:nth-of-type(1) {
+.a1:hover {
+  background-color: black;
+  color: white;
+}
+.a2:hover {
   background-color: black;
   color: white;
 }
