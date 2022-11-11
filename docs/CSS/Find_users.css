@@ -1,6 +1,15 @@
-/* * {
-  border: 1px dotted gray;
-} */
+@font-face {
+  font-family: "KOFIHDrLEEJWTTF-B";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-2@1.0/KOFIHDrLEEJWTTF-B.woff2")
+    format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+* {
+  font-family: "KOFIHDrLEEJWTTF-B";
+}
+
 .login-box1 h2 {
   width: 100%;
   height: 50px;
