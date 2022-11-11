@@ -45,8 +45,8 @@ body {
 .already {
   display: flex;
   justify-content: center;
-  margin: auto;
-  border: 4px solid rgb(121, 213, 186);
+  margin: 7% auto auto auto;
+  border: 2px solid rgb(121, 213, 186);
   padding: 100px;
 }
 
