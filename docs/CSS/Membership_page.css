@@ -34,16 +34,16 @@
   margin-left: 95px;
 }
 #join-password {
-  margin-left: 77px;
+  margin-left: 6em;
 }
 #password-ck {
-  margin-left: 35px;
+  margin-left: 3.1em;
 }
 #join-name {
   margin-left: 113px;
 }
 #join-birth {
-  margin-left: 77px;
+  margin-left: 5.3em;
   width: 243px;
   font-size: 15px;
   padding-left: 10px;
@@ -51,7 +51,7 @@
 select {
   height: 33px;
   width: 60px;
-  margin-left: 34px;
+  margin-left: 2.5rem;
 }
 #join-phone2,
 #join-phone3 {
