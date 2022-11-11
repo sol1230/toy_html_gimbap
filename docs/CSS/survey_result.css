@@ -50,6 +50,7 @@ th {
 }
 .table_underline {
   border-bottom: 1px solid gray;
+  font-weight: 900;
 }
 .table_back_color2 {
   background-color: rgb(88, 212, 175);
