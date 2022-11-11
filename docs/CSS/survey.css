@@ -35,10 +35,19 @@ body {
   justify-content: center;
   margin: auto;
   width: 800px;
+  font-size: 13px;
 }
-
+table {
+  margin-top: 10%;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  text-align: center;
+}
+.height {
+  height: 27px;
+}
 .table_back_color2 {
-  background-color: rgb(223, 245, 239);
+  background-color: rgb(234, 234, 234);
 }
 
 .header {
@@ -51,7 +60,7 @@ body {
 
 .center {
   display: flex;
-  padding-top: 20px;
+  padding-top: 40px;
   justify-content: center;
   height: 45px;
 }
