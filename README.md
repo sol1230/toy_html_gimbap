@@ -29,6 +29,9 @@
   - [stastic_1](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/statistics_1.html)  
   - [stastic_2](https://github.com/sol1230/toy_html_gimbap/blob/master/docs/HTML/statistics_2.html)  
 
+### [구현 페이지]
+- [페이지](https://sol1230.github.io/toy_html_gimbap/index.html)
+
 ### [구현 영상]
 
-- [반려동물 설문조사 구현 영상]()
+- [반려동물 설문조사 구현 영상](https://www.youtube.com/watch?v=KSARzjuUZPk)
