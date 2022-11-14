@@ -34,4 +34,4 @@
 
 ### [구현 영상]
 
-- [반려동물 설문조사 구현 영상](https://www.youtube.com/watch?v=KSARzjuUZPk)
+- [반려동물 설문조사 페이지 구현 영상](https://www.youtube.com/watch?v=KSARzjuUZPk)
