@@ -16,23 +16,34 @@
   <body>
     <div class="container-fluid">
       <header>
-        <nav class="navbar fixed-top navbar-expand bg-light mb-5">
-          <div class="container">
+        <nav class="navbar fixed-top navbar-expand-sm bg-light">
+          <div class="container-fluid">
             <a href="" class="navbar-brand">
               <img src="../../resource/logo.png" width="100" alt="" />
             </a>
-            <div class="navbar-nav">
-              <a href="../HTML/a_main.html" class="nav-item nav-link">Home</a>
-              <a href="../HTML/survey.html" class="nav-item nav-link">설문</a>
-              <a href="../HTML/statistics_1.html" class="nav-item nav-link"
-                >통계</a
-              >
-            </div>
-            <div class="navbar-nav">
-              <a href="../HTML/login.html" class="nav-item nav-link">로그인</a>
-              <a href="../HTML/membership.html" class="nav-item nav-link"
-                >회원가입</a
-              >
+            <a
+              href="#collapseId2"
+              class="navbar-toggler"
+              data-bs-toggle="collapse"
+              ><span class="navbar-toggler-icon"></span
+            ></a>
+            <div
+              class="collapse navbar-nav navbar-collapse justify-content-between"
+              id="collapseId2"
+            >
+              <div class="navbar-nav me-auto mb-md-0">
+                <a href="../HTML/a_main.html" class="nav-item nav-link">Home</a>
+                <a href="../HTML/survey_start.html" class="nav-item nav-link"
+                  >설문</a
+                >
+                <a href="../HTML/statistics_1.html" class="nav-link">통계</a>
+              </div>
+              <div class="d-flex justify-content-end">
+                <a href="./login.html" class="btn btn-secondary me-2">로그인</a>
+                <a href="./membership.html" class="btn btn-success opacity-75"
+                  >회원가입</a
+                >
+              </div>
             </div>
           </div>
         </nav>
@@ -41,14 +52,14 @@
         <div class="row" style="margin-top: 8%">
           <div class="ms-2 me-5" style="width: 8rem">
             <button
-              class="btn btn-warning mb-2"
+              class="btn btn-success opacity-75 mb-2"
               style="width: 6.5rem; height: 4rem"
               onclick="location.href='../HTML/statistics_1.html'"
             >
               설문자별 답변 결과
             </button>
             <button
-              class="btn btn-warning"
+              class="btn btn-success opacity-75"
               style="width: rem; height: 4rem"
               onclick="location.href='../HTML/statistics_2.html'"
             >
@@ -58,14 +69,14 @@
           <div class="col mb-5">
             <table class="table text-center" style="width: 90%">
               <thead>
-                <tr>
+                <tr class="table-success opacity-75">
                   <th>설문 번호</th>
 
                   <th colspan="5">답항</th>
                 </tr>
               </thead>
               <tbody>
-                <tr>
+                <tr class="table-light">
                   <th rowspan="3" class="">1</th>
                   <th colspan="5">반려동물에 관심이 있나요?</th>
                 </tr>
@@ -81,7 +92,7 @@
                   <td>2</td>
                   <td>3</td>
                 </tr>
-                <tr>
+                <tr class="table-light">
                   <th rowspan="3" class="">2</th>
 
                   <th colspan="4">반려동물을 키울 생각이 있나요?</th>
@@ -98,7 +109,7 @@
                   <td>3</td>
                   <td>2</td>
                 </tr>
-                <tr>
+                <tr class="table-light">
                   <th rowspan="3" class="">3</th>
 
                   <th colspan="4">유기동물을 입양할 생각이 있나요?</th>
@@ -115,7 +126,7 @@
                   <td>4</td>
                   <td>5</td>
                 </tr>
-                <tr>
+                <tr class="table-light">
                   <th rowspan="3" class="">4</th>
 
                   <th colspan="4">반려동물을 키울 환경이 준비되어 있나요?</th>
@@ -132,7 +143,7 @@
                   <td>6</td>
                   <td>9</td>
                 </tr>
-                <tr>
+                <tr class="table-light">
                   <th rowspan="3" class="">5</th>
 
                   <th colspan="4">
