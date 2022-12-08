@@ -55,7 +55,7 @@
       <main class="mt-5 p-1">
         <div class="row mt-5 text-center">
           <div class="col-12 col-md-6 mx-auto">
-            <form action="../../index.html" method="get">
+            <form action="./a_main.html" method="get">
               <div class="mb-4">
                 <img
                   src="../../resource/hedgehog.png"
@@ -64,9 +64,9 @@
                 />
               </div>
               <div class="fs-2 text-success opacity-75 mb-3">로그인</div>
-              <div class="row justify-content-center" id="login-box">
-                <div class="col input-group mb-1" id="id-input">
-                  <label for="person" class="input-group-text">
+              <div class="row justify-content-center">
+                <div class="col input-group mb-1">
+                  <label for="id" class="input-group-text">
                     <i
                       class="material-icons col-1 text-secondary fs-5"
                       id="person"
@@ -77,13 +77,13 @@
                   <input
                     type="text"
                     class="form-control opacity-75"
-                    name="id"
+                    name="id-login"
                     id="id"
                     placeholder="아이디"
                   />
                 </div>
                 <div class="input-group mb-2" id="password-input">
-                  <label for="lock" class="input-group-text">
+                  <label for="password" class="input-group-text">
                     <i
                       class="material-icons col-1 text-secondary fs-5"
                       id="lock"
@@ -94,8 +94,8 @@
                   <input
                     type="password"
                     class="form-control opacity-75"
-                    name="password"
-                    id="password"
+                    name="password-login"
+                    id="password-login"
                     placeholder="비밀번호"
                   />
                 </div>
@@ -135,11 +135,12 @@
                     회원가입</a
                   >
 
-                  <a
-                    href="./a_main.html"
+                  <button
+                    type="submit"
                     class="col btn btn-success btn-lg opacity-75 ms-3"
-                    >로그인</a
                   >
+                    로그인
+                  </button>
                 </div>
               </div>
             </form>
