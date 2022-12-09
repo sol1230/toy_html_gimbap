@@ -70,5 +70,5 @@ Bootstrap : 2022.12.08 ~ 2022.12.08
    <a href="#collapseId" class="navbar-toggler" data-bs-toggle="collapse">
       <span class="navbar-toggler-icon"></span></a>
    <div class="collapse navbar-nav navbar-collapse justify-content-between"
-        id="collapseId">
+        id="collapseId"> ...
 ```
