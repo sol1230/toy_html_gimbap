@@ -58,6 +58,11 @@ Bootstrap : 2022.12.08 ~ 2022.12.08
 - [페이지](https://sol1230.github.io/toy_html_gimbap/index.html)
 - [페이지-Bootstrap](https://sol1230.github.io/toy_html_gimbap/Bootstraps/HTML/a_main.html)
 
+### [구현 영상]
+
+- [반려동물 설문조사 페이지 구현 영상](https://www.youtube.com/watch?v=KSARzjuUZPk)
+- [반려동물 설문조사 페이지 구현 영상-Bootstrap](https://www.youtube.com/watch?v=YetoDU4bIfE)
+
 ### [주요 코드]
 
 ```
@@ -67,8 +72,3 @@ Bootstrap : 2022.12.08 ~ 2022.12.08
    <div class="collapse navbar-nav navbar-collapse justify-content-between"
         id="collapseId">
 ```
-
-### [구현 영상]
-
-- [반려동물 설문조사 페이지 구현 영상](https://www.youtube.com/watch?v=KSARzjuUZPk)
-- [반려동물 설문조사 페이지 구현 영상-Bootstrap](https://www.youtube.com/watch?v=YetoDU4bIfE)
