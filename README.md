@@ -61,6 +61,7 @@ Bootstrap : 2022.12.08 ~ 2022.12.08
 ### [주요 코드]
 
 ```
+   <!-- collapse 기능 -->
    <a href="#collapseId" class="navbar-toggler" data-bs-toggle="collapse">
       <span class="navbar-toggler-icon"></span></a>
    <div class="collapse navbar-nav navbar-collapse justify-content-between"
